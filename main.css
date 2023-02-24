@@ -1,6 +1,13 @@
 h2 {
-    background-color:#ffe600;
-    color: #000000;
+    background-color:#000000;
+    color: #fce300;
 }
-p {background-color: #ffe600;}
-html {background-color: #ffe600;}
+p {background-color: #fce300;}
+html {background-color: #fce300;}
+h2 {padding-left: 150px;}
+<h1 class="title">Web Portfolio von Raphael</h1>
+.title 
+{ font-size: 65px;
+   font-size: 65px;
+}
+
